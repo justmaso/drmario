@@ -17,7 +17,12 @@
 
 ---
 
-## Game Overview
+## **Game Demo**
+<p align="center">
+  <img src="images/law-drmario-demo.gif" alt="Dr. Mario Demo"/>
+</p>
+
+## **Game Overview**
 Dr. Mario is a color-matching puzzle game where your goal is to **eliminate all viruses** in a medicine bottle using falling capsules.
 
 <p align="center"><img src="images/drmario.jpg" alt="Dr. Mario Gameplay"/></p>
@@ -44,7 +49,7 @@ Dr. Mario is a color-matching puzzle game where your goal is to **eliminate all 
     - A **victory trumpet** plays 🎺
     - You can **play again or quit** using the appropriate keys below
 
-## Controls:
+## **Controls:**
 <div align="center">
     <table>
     <thead>
@@ -82,7 +87,7 @@ Dr. Mario is a color-matching puzzle game where your goal is to **eliminate all 
     </table>
 </div>
 
-## Setup:
+## **Setup:**
 1. Clone this repository:
 ```
 git clone https://github.com/justmaso/drmario.git
