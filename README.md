@@ -1,11 +1,26 @@
-# Assembly Project: Nintendo's Dr. Mario
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="images/md-medical-info-light.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="images/md-medical-info-dark.svg">
+      <img src="images/md-medical-info-light.svg" alt="medical info icon" width="80" height="100" style="max-width: 100%;">
+    </picture>
+</div>
 
-<p align="center"><img src="images/drmario.jpg" alt="Dr. Mario Gameplay"/></p>
+<p align="center">
+    A fully functional re-creation of <a href="https://en.wikipedia.org/wiki/Dr._Mario">Nintendo’s Dr. Mario</a> in Assembly
+</p>
 
-A fully functional re-creation of [Nintendo’s Dr. Mario](https://en.wikipedia.org/wiki/Dr._Mario) in MIPS Assembly
+<p align="center">
+    <img src="https://img.shields.io/github/languages/top/justmaso/drmario?color=%230065b3" alt="top language in the repository">
+    <img src="https://img.shields.io/github/languages/code-size/justmaso/drmario?color=%230065b3" alt="code size">
+</p>
+
+---
 
 ## Game Overview
 Dr. Mario is a color-matching puzzle game where your goal is to **eliminate all viruses** in a medicine bottle using falling capsules.
+
+<p align="center"><img src="images/drmario.jpg" alt="Dr. Mario Gameplay"/></p>
 
 ### Objective
 - Clear all viruses from the bottle to win.
